@@ -1,4 +1,4 @@
-[
+z[
     {
         "name": "First Miku",
         "author": "idk",
@@ -33,5 +33,12 @@
         "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_5.png",
         "downloadable": true,
         "dimensions": "2123x3072"
+    },
+    {
+        "name": "Miku 15th",
+        "author": "KANGSE",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_6.png",
+        "downloadable": true,
+        "dimensions": "2160x3240"
     }
 ]
