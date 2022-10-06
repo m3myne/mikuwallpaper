@@ -2,28 +2,28 @@
     {
         "name": "First Miku",
         "author": "idk",
-        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/miku_1.png",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_1.png",
         "downloadable": true,
-        "dimensions": "1604x2400"
+        "dimensions": "1604x2400" 
     },
     {
         "name": "Miku",
         "author": "inuwogainu",
-        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/miku_2.png",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_2.png",
         "downloadable": true,
         "dimensions": "2291x3240"
     },
     {
         "name": "Miku Racing",
         "author": "kusunokimizuha",
-        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/miku_3.png",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_3.png",
         "downloadable": true,
         "dimensions": "2172x3072"
     },
     {
         "name": "Miku Birthday",
         "author": "三木",
-        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/miku_4.png",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_4.png",
         "downloadable": true,
         "dimensions": "2210x3026"
     }
