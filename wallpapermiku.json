@@ -26,5 +26,12 @@
         "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_4.png",
         "downloadable": true,
         "dimensions": "2210x3026"
+    },
+    {
+        "name": "Unknown Miku",
+        "author": "saksak_mocchiri",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_5.png",
+        "downloadable": true,
+        "dimensions": "2132x3072"
     }
 ]
