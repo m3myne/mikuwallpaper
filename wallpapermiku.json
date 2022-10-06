@@ -1,9 +1,16 @@
 [
     {
-        "name": "Initial miku",
+        "name": "First miku",
         "author": "idk",
         "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/miku_1.png",
         "downloadable": true,
         "dimensions": "1604x2400"
+    },
+    {
+        "name": "描いた絵は基本的に載せてるけどこの絵は載せてなかった気がする　一月末に描き始めた絵らしい　初音ミクさんです",
+        "author": "inuwogainu",
+        "url": "https://sun9-west.userapi.com/sun9-54/s/v1/ig2/aGOJ_1YLSzaq_YsYHJ4YVPVdn6u-CbQ68t6LsxUAaSW6AQ1X3742-Ewdwr9MiliJ3anS0V9-8TkKKPD7z3gqCNiG.jpg?size=1527x2160&quality=96&type=album",
+        "downloadable": true,
+        "dimensions": "1527x2160"
     }
 ]
