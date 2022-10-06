@@ -40,5 +40,54 @@
         "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_6.jpg",
         "downloadable": true,
         "dimensions": "2160x3240"
+    },
+    {
+        "name": "Day Miku",
+        "author": "KANGSE",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_7.jpg",
+        "downloadable": true,
+        "dimensions": "1800x2400"
+    },
+    {
+        "name": "Hatsune Miku", 
+        "author": "KANGSE",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_8.jpg",
+        "downloadable": true,
+        "dimensions": "1800x2400"
+    },
+    {
+        "name": "Hatsune Miku", 
+        "author": "KANGSE",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_9.jpg",
+        "downloadable": true,
+        "dimensions": "1800x2400" 
+    },
+    {
+        "name": "I <3 U", 
+        "author": "katorea_0139",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_10.jpg",
+        "downloadable": true,
+        "dimensions": "1739x2250"
+    },
+    {
+        "name": "15th", 
+        "author": "たい焼き",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_11.jpg",
+        "downloadable": true,
+        "dimensions": "1646x2400"
+    },
+    {
+        "name": "Uniform Miku", 
+        "author": "pomujoynet1",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_12.jpg",
+        "downloadable": true,
+        "dimensions": "2291x3240"
+    },
+    {
+        "name": "Sakura Miku",
+        "author": "非欢",
+        "url": "https://raw.githubusercontent.com/m3myne/mikuwallpaper/main/mikuwallpaper/miku_13.jpg",
+        "downloadable": true,
+        "dimensions": "1818x3000"
     }
 ]
